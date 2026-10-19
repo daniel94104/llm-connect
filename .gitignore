@@ -1,0 +1,5 @@
+/llm-connect
+*.test
+coverage.out
+.env
+.env.*
